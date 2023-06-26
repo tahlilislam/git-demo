@@ -1,3 +1,3 @@
 console.log ("hello");
 console.log ("new change");
-console.log("background is purple");
+console.log("background is teal");
